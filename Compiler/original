@@ -1,0 +1,9 @@
+int a = 1;
+int b = 1000;
+a++;
+a--;
+a += 3;
+print(a);
+if (b == 1000) {
+  print(b);
+}
